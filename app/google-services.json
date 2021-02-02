@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741871280152",
+    "firebase_url": "https://lookgood-df0fb.firebaseio.com",
+    "project_id": "lookgood-df0fb",
+    "storage_bucket": "lookgood-df0fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741871280152:android:62eb647cf9a544cdc0236d",
+        "android_client_info": {
+          "package_name": "com.asus.lookgood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741871280152-th9earh5ks8e6fic7c1kn53g6ish5g7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asus.lookgood",
+            "certificate_hash": "0f7c4b58fe8afb356db46d26e2f0e6958100569b"
+          }
+        },
+        {
+          "client_id": "741871280152-1vcd04encucd6nfi9hu4fo9pm473oqhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkie8xuWhpPpEJn2yQpEX-eSEKTgSH5MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741871280152-1vcd04encucd6nfi9hu4fo9pm473oqhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
